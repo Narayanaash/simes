@@ -1,0 +1,26 @@
+@media only screen and (min-width: 320px) and (max-width: 425px) {
+
+	.slider-area {
+	    margin-top: 40px;
+	}
+	.service-wrap-layout1 {
+		padding-top: 30px;
+	}
+	.slider-area {
+		margin-bottom: 0;
+	}
+	.action-wrap-layout1 {
+    padding: 10px;
+	}
+	.about-wrap-layout6 {
+    padding: 30px 0 15px;
+	}
+	.inner-page-padding {
+    padding: 35px 0;
+	}
+}
+@media only screen and (min-width: 426px) {
+	.mean-container .mean-bar {
+		top: 0 !important;
+	}
+}
